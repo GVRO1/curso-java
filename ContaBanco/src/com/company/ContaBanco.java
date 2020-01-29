@@ -19,7 +19,7 @@ public class ContaBanco {
     public Float getSaldo() {
         return saldo;
     }
-
+    public String getDono() { return dono; }
     public boolean depositar(float deposito) {
         if (this.status) {
             saldo += deposito;
@@ -43,6 +43,36 @@ public class ContaBanco {
         } else {
             String msg = "Não é possivel fazer o deposito, a conta não está aberta";
             return msg;
+        }
+    }
+
+    public String getTipo(){return tipo;}
+
+    public String pagarMensal(){
+        String msg = "";
+        if (this.status) {
+            if (tipo.equals("CC")) {
+                saldo -= 12;
+                msg = "true";
+
+            } else if (tipo.equals("CP")) {
+                saldo -= 20;
+                msg = "true";
+            }
+        }
+        else{
+            msg = "Não é possivel fazer o deposito, a conta não está aberta";
+        }
+        return msg;
+    }
+
+    public boolean fecharConta(){
+        if (this.status){
+            status = false;
+             return true;
+        }
+        else {
+            return false;
         }
     }
 
