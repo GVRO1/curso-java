@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff7e29d1-e029-4de0-b644-324974061a0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X77X6CUxppRXKrbuAoIioMkbnQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ContaBanco2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff7e29d1-e029-4de0-b644-324974061a0d" name="Default Changelist" comment="" />
+      <created>1580385315806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580385315806</updated>
+      <workItem from="1580385322649" duration="6060000" />
+      <workItem from="1580471691464" duration="1997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="797" y="257" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1580387529808">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="797" y="257" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/58.27.1862.1053@58.27.1862.1053" timestamp="1580387529808" />
+    <state width="1816" height="355" key="GridCell.Tab.0.bottom" timestamp="1580392474534">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="355" key="GridCell.Tab.0.bottom/58.27.1862.1053@58.27.1862.1053" timestamp="1580392474534" />
+    <state width="1816" height="355" key="GridCell.Tab.0.center" timestamp="1580392474532">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="355" key="GridCell.Tab.0.center/58.27.1862.1053@58.27.1862.1053" timestamp="1580392474532" />
+    <state width="1816" height="355" key="GridCell.Tab.0.left" timestamp="1580392474532">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="355" key="GridCell.Tab.0.left/58.27.1862.1053@58.27.1862.1053" timestamp="1580392474532" />
+    <state width="1816" height="355" key="GridCell.Tab.0.right" timestamp="1580392474533">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="355" key="GridCell.Tab.0.right/58.27.1862.1053@58.27.1862.1053" timestamp="1580392474533" />
+    <state width="1816" height="355" key="GridCell.Tab.1.bottom" timestamp="1580392474536">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="355" key="GridCell.Tab.1.bottom/58.27.1862.1053@58.27.1862.1053" timestamp="1580392474536" />
+    <state width="1816" height="355" key="GridCell.Tab.1.center" timestamp="1580392474535">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="355" key="GridCell.Tab.1.center/58.27.1862.1053@58.27.1862.1053" timestamp="1580392474535" />
+    <state width="1816" height="355" key="GridCell.Tab.1.left" timestamp="1580392474534">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="355" key="GridCell.Tab.1.left/58.27.1862.1053@58.27.1862.1053" timestamp="1580392474534" />
+    <state width="1816" height="355" key="GridCell.Tab.1.right" timestamp="1580392474535">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="355" key="GridCell.Tab.1.right/58.27.1862.1053@58.27.1862.1053" timestamp="1580392474535" />
+    <state x="298" y="140" width="1372" height="796" key="new project wizard" timestamp="1580478058352">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="298" y="140" width="1372" height="796" key="new project wizard/58.27.1862.1053@58.27.1862.1053" timestamp="1580478058352" />
+    <state x="652" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1580387527564">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="652" y="236" width="672" height="678" key="search.everywhere.popup/58.27.1862.1053@58.27.1862.1053" timestamp="1580387527564" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ContaBanco.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ContaBanco.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

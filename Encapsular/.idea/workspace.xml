@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcffd803-be53-4172-be98-f5325fd4c79e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X7M258v3qwKcTI4wUXqJWIel6t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcffd803-be53-4172-be98-f5325fd4c79e" name="Default Changelist" comment="" />
+      <created>1580392468509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580392468509</updated>
+      <workItem from="1580392476490" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="200" width="847" height="677" key="#Project_Structure" timestamp="1580392495642">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="584" y="200" width="847" height="677" key="#Project_Structure/58.27.1862.1053@58.27.1862.1053" timestamp="1580392495642" />
+    <state x="298" y="140" width="1372" height="796" key="new project wizard" timestamp="1580392524834">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="298" y="140" width="1372" height="796" key="new project wizard/58.27.1862.1053@58.27.1862.1053" timestamp="1580392524834" />
+  </component>
+</project>
